@@ -7,3 +7,4 @@ Mobile adaptation.
 ![movie1](https://github.com/azim-abdulhanov/tvflix-movies/assets/133730471/e7ba5dd5-9f0b-4642-be06-32a8d2f677e4)
 
 
+![movie2](https://github.com/azim-abdulhanov/tvflix-movies/assets/133730471/594f5c67-0e01-4060-97ad-98014b6df401)
