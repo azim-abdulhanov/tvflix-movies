@@ -4,5 +4,6 @@ Used TMDB api.
 Mobile adaptation.
 
 
-![Uploading movie1.png…]()
+![movie1](https://github.com/azim-abdulhanov/tvflix-movies/assets/133730471/e7ba5dd5-9f0b-4642-be06-32a8d2f677e4)
+
 
